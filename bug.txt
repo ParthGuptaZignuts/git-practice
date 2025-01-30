@@ -1,1 +1,3 @@
 this is the bug file
+i am working on this bug file 
+this is the bug fix file 
