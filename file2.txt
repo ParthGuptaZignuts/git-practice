@@ -2,3 +2,4 @@ this is the file 2
 file2
 modified file2
 new changes file2   
+changes in the file 2 
