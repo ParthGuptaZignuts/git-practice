@@ -7,3 +7,4 @@ git reset to remove from the add file
 
 
 git commit -m " this is the commit message " 
+changes in the file 4
